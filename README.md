@@ -6,7 +6,12 @@ RoleScope AI analyzes a candidate's resume — optionally against a target job p
 
 🔗 **Live Demo:** [rolescope-ai.vercel.app](https://rolescope-ai.vercel.app/)
 
-![RoleScope AI screenshot](assets/screenshot.png)
+<img width="752" height="534" alt="image" src="https://github.com/user-attachments/assets/3ca74668-fa02-43dd-be0f-daeb55f0c0c8" />
+
+
+
+<img width="1287" height="642" alt="image" src="https://github.com/user-attachments/assets/a3818cb8-759c-445c-b868-8a018a914e63" />
+
 <!-- Replace with an actual screenshot or short GIF of the app in use -->
 
 ---
