@@ -103,5 +103,5 @@ Building RoleScope AI end-to-end — from prompt design and JSON-structured LLM 
 
 ## Author
 
-**Mehmet Onur Pirencioğlu** — Industrial Engineer, Data & Growth Analytics
+**Mehmet Onur Pirencioğlu** — Industrial Engineer
 [LinkedIn](https://linkedin.com/in/mehmet-onur-pirencioglu) · [GitHub](https://github.com/monurpirencioglu)
